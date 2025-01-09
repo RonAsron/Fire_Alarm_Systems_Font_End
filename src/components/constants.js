@@ -1,0 +1,1 @@
+export const BASE_API_URL = 'https://fire-alarm-systems-back-end.onrender.com/api/';
