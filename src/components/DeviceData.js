@@ -147,7 +147,6 @@ const DeviceDashboard = () => {
                   </Card>
                 </Col>
               </Row>
-
               <Row gutter={[16, 16]} style={{ marginTop: 20 }}>
                 <Col span={16}>
                   <Card title={<span><AppstoreOutlined /> Device List</span>} bordered={false}>
